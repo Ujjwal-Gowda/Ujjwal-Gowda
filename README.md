@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Ujjwal 👋
 
-<!--
-**Ujjwal-Gowda/Ujjwal-Gowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on building scalable web applications.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- TypeScript
+- JavaScript
+- React
+- Next.js
+- Node.js
+- Express
+- PostgreSQL
+- Prisma
+- Docker
+
+## Currently Learning
+
+- System Design
+- Docker & Deployment
+- Open Source Development
+
+## Projects
+
+### Project Management Platform
+Workspace-based project management application with:
+- Authentication
+- Role-based access control
+- Activity tracking
+- Real-time collaboration
+
+### Portfolio Website
+Built using Next.js and TypeScript.
+
+## Connect
+
+- LinkedIn: your-linkedin
+- Email: your-email@example.com
