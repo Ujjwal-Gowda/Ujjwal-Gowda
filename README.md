@@ -23,4 +23,4 @@ Full Stack Developer focused on building scalable web applications.
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/ujjwal-gangadhar-653399361/
-- Email: ujjwalgangadhar@example.com
+- Email: ujjwalgangadhar@gmail.com
