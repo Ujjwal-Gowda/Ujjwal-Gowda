@@ -20,19 +20,7 @@ Full Stack Developer focused on building scalable web applications.
 - Docker & Deployment
 - Open Source Development
 
-## Projects
-
-### Project Management Platform
-Workspace-based project management application with:
-- Authentication
-- Role-based access control
-- Activity tracking
-- Real-time collaboration
-
-### Portfolio Website
-Built using Next.js and TypeScript.
-
 ## Connect
 
-- LinkedIn: your-linkedin
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/ujjwal-gangadhar-653399361/
+- Email: ujjwalgangadhar@example.com
